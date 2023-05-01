@@ -1,0 +1,18 @@
+//Расскоментировать, если нужен слайдер
+// @import url('../../node_modules/swiper/swiper-bundle.min.css');
+@import '../../node_modules/bootstrap/scss/bootstrap-grid.scss';
+@import 'abstracts/settings.scss';
+@import 'abstracts/fonts.scss';
+@import 'abstracts/variables.scss';
+@import 'elements/header.scss';
+@import 'elements/footer.scss';
+@import 'elements/action.scss';
+@import 'elements/about.scss';
+@font-face {
+  font-family: 'Didot';
+  src: url(../fonts/Didot.woff2) format('woff2');
+}
+@font-face {
+  font-family: 'Cinetype';
+  src: url(../fonts/Cinetype.woff2) format('woff2');
+}

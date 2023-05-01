@@ -1,0 +1,12 @@
+.action {
+  height: 46px;
+  background-color: #50735f;
+  &__text {
+    text-align: center;
+    padding-top: 15px;
+    color: #fff;
+    font-family: 'Cinetype';
+    font-size: 14px;
+    line-height: 14px;
+  }
+}
